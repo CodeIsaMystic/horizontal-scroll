@@ -1,0 +1,43 @@
+{
+  "name": "horizontal-scroll",
+  "private": true,
+  "description": "An experimental work using GSAP and Locomotive Scroll",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "curtainsjs": "^7.1.4",
+    "eslint": "^7.14.0",
+    "framer-motion": "^2.9.4",
+    "locomotive-scroll": "^4.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-loadable": "^5.5.0",
+    "react-scripts": "5.0.1",
+    "sass": "^1.55.0",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
